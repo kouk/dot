@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.15
 
 LABEL source="https://github.com/nickshine/dot"
 
